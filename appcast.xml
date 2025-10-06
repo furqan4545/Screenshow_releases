@@ -1,14 +1,18 @@
 <?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss version="2.0" xmlns:sparkle="http://www.sparkle-project.org/RSS/Appcast/2.0">
     <channel>
-        <title>Screenshow</title>
+        <title>Screenshow Changelog</title>
         <item>
-            <title>5.1</title>
+            <title>Version 5.1</title>
             <pubDate>Mon, 06 Oct 2025 15:21:03 +0900</pubDate>
-            <sparkle:version>5.1</sparkle:version>
-            <sparkle:shortVersionString>5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/furqan4545/Screenshow_releases/releases/download/prod/ScreenRecord.5.1.dmg" length="125818294" type="application/octet-stream" sparkle:edSignature="76JHmEA3+jnzSJ/8vGkeOzk0+BqvEVEYlal92jTDGfy6xYDfR5KVUvrUdRuv5a+JqLxEtuXWKlB+1nsdnU5BDw=="/>
+            <enclosure 
+                url="https://github.com/furqan4545/Screenshow_releases/releases/download/prod/ScreenRecord.5.1.dmg" 
+                length="125818294" 
+                type="application/octet-stream" 
+                sparkle:shortVersionString="5.1"
+                sparkle:version="51"
+                sparkle:edSignature="76JHmEA3+jnzSJ/8vGkeOzk0+BqvEVEYlal92jTDGfy6xYDfR5KVUvrUdRuv5a+JqLxEtuXWKlB+1nsdnU5BDw=="/>
         </item>
     </channel>
 </rss>
