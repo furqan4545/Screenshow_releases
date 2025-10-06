@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.sparkle-project.org/RSS/Appcast/2.0">
+    <channel>
+        <title>ScreenRecord Changelog</title>
+        <link>https://furqan4545.github.io/Screenshow_releases/</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.1.0</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                        <li>New Feature: Added a cool new effect to the editor.</li>
+                        <li>Improvement: Recording performance is now 20% faster.</li>
+                        <li>Bug Fix: Fixed a crash that occurred when stopping a recording.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Fri, 03 Oct 2025 10:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/your-username/your-repo/releases/download/v1.1.0/ScreenRecord.zip"
+                sparkle:version="110"
+                sparkle:shortVersionString="1.1.0"
+                length="12345678"
+                type="application/octet-stream"
+                sparkle:edSignature="...YOUR_ED_SIGNATURE_HERE..." />
+        </item>
+    </channel>
+</rss>
