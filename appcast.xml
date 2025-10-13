@@ -3,12 +3,12 @@
     <channel>
         <title>Screenshow</title>
         <item>
-            <title>5.6</title>
-            <pubDate>Fri, 10 Oct 2025 15:08:13 +0900</pubDate>
-            <sparkle:version>5.6</sparkle:version>
-            <sparkle:shortVersionString>5.6</sparkle:shortVersionString>
+            <title>5.7</title>
+            <pubDate>Mon, 13 Oct 2025 20:01:33 +0900</pubDate>
+            <sparkle:version>5.7</sparkle:version>
+            <sparkle:shortVersionString>5.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/furqan4545/Screenshow_releases/releases/download/prodv3/ScreenRecord.5.6.dmg" length="125817180" type="application/octet-stream" sparkle:edSignature="HcXMjsFrmoA1p+XmgsxfSHagQDxDE8k1oFUEbGS3KwhtnuaFBQ+U2ONPJS5zV+hxjwwnPAugDxnSAGaMzNjwDw=="/>
+            <enclosure url="https://github.com/furqan4545/Screenshow_releases/releases/download/prodv4/Screenshow.5.7.dmg" length="126088124" type="application/octet-stream" sparkle:edSignature="bFzkH47GIRVmLJekgibwcEiU3JHxQ9tRQPeeLJV+/Th1A7S1S3PPpDxueoI4vFYTQHD/yKnMpfoA7oRo4R+6AA=="/>
         </item>
     </channel>
 </rss>
